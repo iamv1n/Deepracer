@@ -18,7 +18,7 @@ This README provides an overview of I approached the AWS DeepRacer Student Leagu
 - [Development](#Development)
   - [Qualifier Model](#Qualifier-Model)
 - [Conclusion](#Conclusion)
-- [Acknowledgments](#Acknowledgments
+- [Acknowledgments](#Acknowledgments)
 
 ## Development
 ### Pre-Season Model
