@@ -16,7 +16,7 @@ This README provides an overview of I approached the AWS DeepRacer Student Leagu
 - [About](#About)
 - [Results](#Results)
 - [Development](#Development)
-  - [Pre-Season Model](#Pre-Season Model)
+  - [Pre-Season Model](#Pre-Season_Model)
 - [Conclusion](#Conclusion)
 - [Acknowledgments](#Acknowledgments)
 
