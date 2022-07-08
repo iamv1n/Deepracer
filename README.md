@@ -30,4 +30,38 @@ The Pre-Season track is the 2021 DeepRacer Championship Cup track named Vivalas 
 #### Developing the reward function
 Initially, I trained the model with much simpler parameters on the Vivalas track using a centreline-following reward function with an incentive for faster speeds while travelling straight.
 
-The sub-rewards can be seen in this code snippet from [reward_simple.py]():
+The straight forward function for the above can be seen in this code snippet from [reward_simple.py]():
+
+[reward_funtion_L65.py]("./src/reward_funtion_L65.py") has the code for actual function I used for which the docs will be added as soon as possible.
+
+## Other Useful Repositories to look at
+1. [AWS DeepRacer League (https://aws.amazon.com/deepracer/league/)](https://aws.amazon.com/deepracer/league/)
+2. [DeepRacer Logs Analysis tools (https://github.com/aws-deepracer-community/deepracer-analysis)](https://github.com/aws-deepracer-community/deepracer-analysis)
+3. [AWS Deepracer Workshop Lab Github (https://github.com/aws-samples/aws-deepracer-workshops)](https://github.com/aws-samples/aws-deepracer-workshops)
+4. [DeepRacer K1999 Racing Line Algo (https://github.com/cdthompson/deepracer-k1999-race-lines)](https://github.com/cdthompson/deepracer-k1999-race-lines)
+5. [DeepRacer Utils CLI commands (https://github.com/aws-deepracer-community/deepracer-utils)](https://github.com/aws-deepracer-community/deepracer-utils)
+
+## License
+```
+MIT License
+
+Copyright (c) 2021 AWS DeepRacer Worksheet contributors community
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
