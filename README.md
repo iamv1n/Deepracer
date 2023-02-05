@@ -1,5 +1,7 @@
-# Deepracer Student League
-
+<h1 align = center>AWS Deepracer Student League</h1>
+<p align = center>
+  <img src="https://miro.medium.com/max/1400/1*vYUuQ7LJlWAaiAYShMKmPw.png">
+</p>
 <p align = center>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white"/>
