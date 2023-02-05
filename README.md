@@ -1,4 +1,4 @@
-# Deepracer Student League 2021-2022
+# Deepracer Student League
 
 <p align = center>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
