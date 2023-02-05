@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"/>
 </p>
 
-This README provides an overview of how I approached the AWS DeepRacer Student League COmpetition 21-22. Over the course of the model's development it was necessary to define an action space, develop a reward function for reinforcement learning, and experiment with various hyperparameters controlling the underlying 3-layer neural network.
+This README provides an overview of how I approached the AWS DeepRacer Student League Competition in the last 3 years. Over the course of the model's development it was necessary to define an action space, develop a reward function for reinforcement learning, and experiment with various hyperparameters controlling the underlying 3-layer neural network.
 
 ### Contents
 - [About](#About)
