@@ -32,7 +32,7 @@ Initially, I trained the model with much simpler parameters on the Vivalas track
 
 The straight forward function for the above can be seen in this code snippet from [reward_simple.py]():
 
-[reward_funtion_L65.py]("./src/reward_funtion_L65.py") has the code for actual function I used for which the docs will be added as soon as possible.
+[reward_funtion_L65.py](/src/reward_function_L65.py) has the code for actual function I used for which the docs will be added as soon as possible.
 
 ## Other Useful Repositories to look at
 1. [AWS DeepRacer League (https://aws.amazon.com/deepracer/league/)](https://aws.amazon.com/deepracer/league/)
