@@ -12,15 +12,8 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"/>
 </p>
 
+## About
 This README provides an overview of how I approached the AWS DeepRacer Student League Competition in the last 3 years. Over the course of the model's development it was necessary to define an action space, develop a reward function for reinforcement learning, and experiment with various hyperparameters controlling the underlying 3-layer neural network.
-
-### Contents
-- [About](#About)
-- [Results](#Results)
-- [Development](#Development)
-  - [Pre-Season Model](#Pre-Season_Model)
-- [Conclusion](#Conclusion)
-- [Acknowledgments](#Acknowledgments)
 
 ## Development
 ### Pre-Season Model
@@ -34,7 +27,7 @@ The straight forward function for the above can be seen in this code snippet fro
 
 [reward_funtion_L65.py](/src/reward_function_L65.py) has the code for actual function I used for which the docs will be added as soon as possible.
 
-## Other Useful Repositories to look at
+## Other Useful Repositories
 1. [AWS DeepRacer League (https://aws.amazon.com/deepracer/league/)](https://aws.amazon.com/deepracer/league/)
 2. [DeepRacer Logs Analysis tools (https://github.com/aws-deepracer-community/deepracer-analysis)](https://github.com/aws-deepracer-community/deepracer-analysis)
 3. [AWS Deepracer Workshop Lab Github (https://github.com/aws-samples/aws-deepracer-workshops)](https://github.com/aws-samples/aws-deepracer-workshops)
